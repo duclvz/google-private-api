@@ -1,0 +1,27 @@
+{
+  "name": "google-private-api",
+  "description": "Google Private API wrapper for full access to all Google Products",
+  "version": "0.1.0",
+  "author": "Duc Lv",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "camelcase-keys": "^5.0.0",
+    "crypto-js": "^3.1.9-1",
+    "is-stream": "^1.1.0",
+    "js-md5": "^0.7.3",
+    "json-bigint": "^0.3.0",
+    "lodash": "^4.17.11",
+    "node-cache": "^4.2.0",
+    "proxy-agent": "^3.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "touch": "^3.1.0",
+    "tough-cookie": "^2.5.0",
+    "tough-cookie-file-store": "^1.2.0",
+    "underscore.string": "^3.3.5",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {}
+}
